@@ -1,0 +1,20 @@
+# Локальные настройки Obsidian
+.obsidian/
+
+# Корзина
+.trash/
+
+# Секреты
+.env
+.env.*
+*.key
+*.pem
+*.p12
+*.pfx
+
+# Временные и системные файлы
+*.tmp
+*.swp
+*~
+.DS_Store
+Thumbs.db
